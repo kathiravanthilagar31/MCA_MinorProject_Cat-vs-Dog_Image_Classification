@@ -101,5 +101,3 @@ python train.py
 * **Explainable AI:** Grad-CAM
 * **Image Processing:** OpenCV (`cv2`) & Pillow (`PIL`)
 * **Frontend Web Application:** Streamlit
-
-```
